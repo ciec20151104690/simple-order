@@ -7,6 +7,5 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-
+var Arr = [Int](0...10)
+print(Arr)
